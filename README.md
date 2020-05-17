@@ -12,5 +12,5 @@ pip install moviepy
 
 ## usage
 ```bash
-python conv.py <youtube_url>
+python conv.py <youtube_video_url>
 ```
